@@ -2,8 +2,8 @@ import React,{useContext, useEffect} from "react";
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
-import Appointment from "./pages/appointment";
-import About from "./pages/about";
+import Appointment from "./pages/Appointment";
+import About from "./pages/About";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Navbar from './components/Navbar'
